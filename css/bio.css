@@ -8,14 +8,14 @@
 }
 
 .page-content {
-  align-items: center;
+  align-items: left;
   display: flex;
   flex-direction: column;
   margin: auto;
   max-width: 440px;
   
   letter-spacing: 1px;
-  text-align: center;
+  text-align: left;
 }
 
 .intro {
@@ -31,6 +31,7 @@
 .social-list {
   margin: 0;
   padding: 0;
+  text-align: center;
 }
 
 .social-list__item {
