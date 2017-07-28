@@ -1,4 +1,5 @@
 # Site Settings
 
 include: [_pages]
+exclude: [README.md]
 #theme: jekyll-theme-minimal
