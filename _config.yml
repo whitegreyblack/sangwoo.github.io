@@ -1,5 +1,3 @@
 # Site Settings
-
-include: [_pages, _css]
 exclude: [README.md]
 #theme: jekyll-theme-minimal
