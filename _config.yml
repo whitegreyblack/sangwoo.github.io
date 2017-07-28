@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+# Site Settings
+
+include: [_pages]
+#theme: jekyll-theme-minimal
