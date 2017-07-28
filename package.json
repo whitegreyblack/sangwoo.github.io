@@ -1,5 +1,12 @@
 {
-  "name"    : "electron-bio",
-  "version" : "0.1.0",
-  "main"    : "main.js"
+  "name": "whitegreyblack.github.io",
+  "version": "0.0.1",
+  "main": "main.js",
+  "description": "Biography for Sam Whang",
+  "license": "MIT",
+  "author": "@whitegreyblack",
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/whitegreyblack/whitegreyblack.github.io.git"
+  }
 }
