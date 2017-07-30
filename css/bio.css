@@ -28,18 +28,18 @@
   line-height: 44px;
 }
 
-.social-list {
+.social-links {
   margin: 0;
   padding: 0;
   text-align: center;
 }
 
-.social-list__item {
+.social-links-item {
   display: inline-block;
   margin: 0 10px
 }
 
-.social-list__item a {
+.social-links-item a {
   font-weight: 300;
   
   color: #999;
@@ -48,6 +48,6 @@
   transition: color .25s;
 }
 
-.social-list__item a:hover {
+.social-links-item a:hover {
   color: #f05522;
 }
