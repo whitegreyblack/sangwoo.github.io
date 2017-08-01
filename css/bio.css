@@ -4,7 +4,7 @@
   margin: 0;
   padding: 0 20px;
   
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 .page-content {
@@ -12,34 +12,35 @@
   display: flex;
   flex-direction: column;
   margin: auto;
-  max-width: 440px;
+  max-width: 600px;
   
   letter-spacing: 1px;
   text-align: left;
 }
 
 .intro {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   margin-top: 0;
   
-  font-size: 24px;
-  font-weight: 200;
+  font-size: 20px;
+  font-weight: lighter;
   
-  line-height: 44px;
+  line-height: 30px;
 }
 
-.social-list {
+.social-links {
   margin: 0;
   padding: 0;
   text-align: center;
 }
 
-.social-list-item {
+.social-links-item {
   display: inline-block;
   margin: 0 10px
 }
 
-.social-list-item a {
+.social-links-item a {
+  text-align: center;
   font-weight: 300;
   
   color: #999;
@@ -48,6 +49,6 @@
   transition: color .25s;
 }
 
-.social-list-item a:hover {
+.social-links-item a:hover {
   color: #f05522;
 }
