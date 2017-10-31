@@ -52,3 +52,19 @@
 .social-links-item a:hover {
   color: #f05522;
 }
+/*
+.fa {
+  padding: 10px;
+  font-size: 30px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+}*/
+
+.fa:hover {
+  opacity: 0.7;
+}
+/*
+.fa-linkedin {
+  color: #007785;
+}*/
