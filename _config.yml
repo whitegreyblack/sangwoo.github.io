@@ -1,6 +1,6 @@
 # Site Settings
 include: 
-  - [index.html]
+  - index.html
   - files
 exclude: [README.md]
 #theme: jekyll-theme-minimal
