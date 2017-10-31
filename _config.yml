@@ -1,4 +1,6 @@
 # Site Settings
-include: [index.html]
+include: 
+  - [index.html]
+  - files
 exclude: [README.md]
 #theme: jekyll-theme-minimal
